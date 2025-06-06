@@ -66,5 +66,5 @@
 7. **Visualization and Reporting**
 
    * Created detailed plots using Python to support insights.
-   * (Optional) Developed interactive dashboards in Power BI to present findings clearly to stakeholders.
+   * Developed interactive dashboards in Power BI to present findings clearly to stakeholders.
 
