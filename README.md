@@ -23,6 +23,7 @@
 
 * Exploratory Data Analysis (EDA)
 * Root Cause Analysis
+* Log Transformation
 * Hypothesis Testing (e.g., t-tests, ANOVA)
 * Outlier Detection and Treatment
 * Data Grouping and Aggregation
