@@ -14,8 +14,7 @@
 * **Python**: Data manipulation and analysis (Pandas, NumPy), visualization (Matplotlib, Seaborn)
 * **MySQL**: Data storage, querying, and preprocessing
 * **Jupyter Notebook**: Interactive data analysis and code documentation
-* **Power BI** (if applicable): Interactive dashboards and visual reporting
-* **Git & GitHub**: Version control and project documentation
+* **Power BI**: Interactive dashboards and visual reporting
 
 ---
 
@@ -24,7 +23,7 @@
 * Exploratory Data Analysis (EDA)
 * Root Cause Analysis
 * Log Transformation
-* Hypothesis Testing (e.g., t-tests, ANOVA)
+* Hypothesis Testing 
 * Outlier Detection and Treatment
 * Data Grouping and Aggregation
 * Categorical Feature Engineering (e.g., review categories, host types)
