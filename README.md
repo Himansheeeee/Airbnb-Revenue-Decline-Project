@@ -66,4 +66,7 @@
 
    * Created detailed plots using Python to support insights.
    * Developed interactive dashboards in Power BI to present findings clearly to stakeholders.
-https://github.com/Himansheeeee/Airbnb-Revenue-Decline-Project/blob/main/Picture1.png
+
+
+Screenshots / Demos:
+(https://github.com/Himansheeeee/Airbnb-Revenue-Decline-Project/blob/main/Airbnb%20dashboard.png)
